@@ -1,0 +1,7 @@
+name: DivineClear
+version: 1.0
+main: lol.mayaaa.divineclear.DivineClear
+commands:
+  clear:
+    description: Opens a trash GUI to clear items
+    aliases: [cl]
