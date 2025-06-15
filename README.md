@@ -1,7 +1,7 @@
 ----
 # 🦋 DivineClear Plugin
 
-📌 **About**
+📌 **About**  
 DivineClear is a plugin made to be simple, but intermediate. It creates a custom confirmation GUI when doing /clear. No permissions needed.
  
 ----
